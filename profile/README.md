@@ -8,3 +8,5 @@
 아래 프로젝트 링크를 통해 자세한 내용을 알아보실 수 있습니다!
 
 ### 🥕 [Relive-Travel : react-web project](https://github.com/relive-travel/react-web)
+
+### 🥕 [Relive-Travel : android-app project](https://github.com/relive-travel/android-app)
