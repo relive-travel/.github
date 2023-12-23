@@ -6,10 +6,10 @@
 아래 프로젝트 링크를 통해 자세한 내용을 알아보실 수 있습니다!
 
 2022.10.10. ~ 2023.01.15
-### 🥕 [Relive-Travel : react-web project](https://github.com/relive-travel/react-web)
+### 🥕 [Relive-Travel : react_web project](https://github.com/relive-travel/react_web)
 
 2023.11.01 ~ 2024.xx.xx
-### 🥕 [Relive-Travel : android-app project](https://github.com/relive-travel/android-app)
+### 🥕 [Relive-Travel : android_app project](https://github.com/relive-travel/android_app)
 
 2023.12.23 ~ 2024.xx.xx
-### 🥕 [Relive-Travel : flutter-app project](https://github.com/relive-travel/flutter-app)
+### 🥕 [Relive-Travel : flutter_app project](https://github.com/relive-travel/flutter_app)
